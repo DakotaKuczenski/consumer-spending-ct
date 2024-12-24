@@ -118,16 +118,17 @@ Project Structure
 consumer-spending-analysis/
 │
 ├── data/
-│   ├── Percent_Change_in_Consumer_Spending.csv  # Raw dataset
+│   ├── Percent_Change_in_Consumer_Spending.csv    # Raw dataset
 │
 ├── notebooks/
-│   ├── consumer_spending_analysis.ipynb  # Jupyter notebook with analysis
+│   ├── consumer_spending_analysis.ipynb           # Jupyter notebook with analysis
 │
-├── visuals/
-│   
-├── README.md             
+├── visuals/                                       # Folder for storing graph screenshots
 │
-├── requirements.txt    
+├── README.md                                      # Project documentation
+│
+├── requirements.txt                               # Python dependencies
+
 
 
 --------------------------------------------------------------------------------
